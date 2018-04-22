@@ -1,0 +1,23 @@
+{
+  "name": "ng-europe-demo-angular-elements",
+  "version": "1.0.0",
+  "description": "The three demos are in each of the folders",
+  "main": "index.js",
+  "scripts": {
+    "http-server": "http-server",
+    "start": "npm run http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankajparkar/ng-europe-demo-angular-elements.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankajparkar/ng-europe-demo-angular-elements/issues"
+  },
+  "homepage": "https://github.com/pankajparkar/ng-europe-demo-angular-elements#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
